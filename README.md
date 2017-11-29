@@ -10,7 +10,7 @@
 # Collections : 
   user and shops
 
-1.Clone the application git clone https://github.com/zaaniyoussef/shopChallenge.git
+1.Clone the application git clone: https://github.com/zaaniyoussef/shopChallenge.git
 
 # 2.Build and run the backend app using maven
 
